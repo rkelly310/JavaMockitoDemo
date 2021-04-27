@@ -1,8 +1,8 @@
 ﻿<!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rkelly310/CucumberAPIDemo/">
-    <img src="images/cucumber.png" alt="Logo">
+  <a href="https://github.com/rkelly310/JavaMockitoDemo/">
+    <img src="images/mockito.png" alt="Logo">
   </a>
 
   <h2 align="center">Creating and Testing a Mockito example using TDD and BDD frameworks</h2>
@@ -10,14 +10,14 @@
   <p align="center">
     A demo lab instructing users on construct BDD test projects, feature files, step definitions and test runners to complete a BDD test iteration.
     <br />
-    <a href="https://github.com/U815073/CucumberAPIDemo/"><strong>Explore the docs �</strong></a>
+    <a href="https://github.com/rkelly310/JavaMockitoDemo/"><strong>Explore the docs �</strong></a>
     <br />
     <br />
-    <a href="https://github.com/U815073/CucumberAPIDemo/">View Demo</a>
+    <a href="https://github.com/rkelly310/JavaMockitoDemo/">View Demo</a>
     �
-    <a href="https://github.com/U815073/CucumberAPIDemo/issues">Report Bug</a>
+    <a href="https://github.com/rkelly310/JavaMockitoDemo/issues">Report Bug</a>
     �
-    <a href="https://github.com/U815073/CucumberAPIDemo/issues">Request Feature</a>
+    <a href="https://github.com/rkelly310/JavaMockitoDemo/issues">Request Feature</a>
   </p>
 </p>
 
@@ -133,7 +133,7 @@ None, other than a a Java IDE (preferred Eclipse), and either Gradle or Maven.
 
 Simply clone the repo to see the full solution:
    ```sh
-   git clone https://github.com/U815073/CucumberAPIDemo.git
+   git clone https://github.com/rkelly310/JavaMockitoDemo.git
    ```
 <!-- Instructions -->
 ## Instructions
@@ -201,7 +201,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/U815073/CucumberAPIDemo](https://github.com/U815073/CucumberAPIDemo)
+Project Link: [https://github.com/rkelly310/JavaMockitoDemo/](https://github.com/rkelly310/JavaMockitoDemo/)
 
 
 
